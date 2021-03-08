@@ -1,10 +1,12 @@
+Please use https://claws425.github.io/Web-Design-Challenge/WebVisualizations/ to view the live website.
+
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Background
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
-![Images/landingResize.png](Images/landingResize.png)
+![images/landingResize.png](Images/landingResize.png)
 
 ### Before You Begin
 
@@ -86,28 +88,28 @@ This section contains screenshots of each page that must be built, at varying sc
 
 Large screen:
 
-![Landing page large screen](Images/landingResize.png)
+![images/Landing page large screen](images/landingResize.png)
 
 Small screen:
 
-![Landing page small screen](Images/landing-sm.png)
+![images/Landing page small screen](images/landing-sm.png)
 ￼
 
 #### <a id="comparisons-page"></a>Comparisons page
 
 Large screen:
 
-![comparison page large screen](Images/comparison-lg.png)
+![images/comparison page large screen](images/comparison-lg.png)
 
 Small screen:
 
-![comparison page small screen](Images/comparison-sm.png)
+![images/comparison page small screen](images/comparison-sm.png)
 
 #### <a id="data-page"></a>Data page
 
 Large screen:
 
-![data page large screen](Images/data-lg.png)
+![images/data page large screen](images/data-lg.png)
 
 
 Small screen:
