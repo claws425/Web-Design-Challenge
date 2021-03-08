@@ -114,7 +114,7 @@ Large screen:
 
 Small screen:
 
-![data page small screen](Images/data-sm.png)
+![images/data page small screen](images/data-sm.png)
 
 #### <a id="visualization-pages"></a>Visualization pages
 
@@ -122,19 +122,19 @@ You'll build four of these, one for each visualization. Here's an example of one
 
 Large screen:
 
-![visualize page large screen](Images/visualize-lg.png)
+![images/visualize page large screen](images/visualize-lg.png)
 
 Small screen:
 
-![visualize page small screen](Images/visualize-sm.png)
+![images/visualize page small screen](images/visualize-sm.png)
 
 #### <a id="navigation-menu"></a>Navigation menu
 
 Large screen:
-![nav menu large screen](Images/nav-lg.png)
+![images/nav menu large screen](images/nav-lg.png)
 
 Small screen:
-![nav menu small screen](Images/nav-sm.png)
+![images/nav menu small screen](images/nav-sm.png)
 
 ### Copyright
 
